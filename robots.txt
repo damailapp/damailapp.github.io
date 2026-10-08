@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://damailapp.github.io/sitemap.xml
